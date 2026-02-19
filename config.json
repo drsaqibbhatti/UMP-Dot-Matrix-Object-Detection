@@ -1,0 +1,7 @@
+{
+"train_path": "D:/hvs/Hyvsion_Projects/UMP/DotMatrix_Data/UMP/DataUpto_250613/Outer_2/train",
+"val_path": "D:/hvs/Hyvsion_Projects/UMP/DotMatrix_Data/UMP/DataUpto_250613/Outer_2/validation",
+"data_type": "Outer_2",
+"epochs" : 100,
+"load_previous_checkpoint": false
+}
