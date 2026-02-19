@@ -1,4 +1,4 @@
-# UMP Dot Matrix Pattern Detection — Small Object Detection (YOLOv8-based)
+# UMP Dot Matrix Pattern Detection
 
 This project detects **micro dot-pattern units** and a **long bar pattern** on an industrial surface and classifies each detected unit
 Note: The original pattern specification and dataset are confidential.  
