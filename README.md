@@ -8,6 +8,7 @@ Note: The original pattern specification and dataset are confidential.
 ---
 
 Project page (demo + overview):
+
 https://drsaqibbhatti.com/projects/ump-dot-matrix-pattern.html
 
 ## Project Overview
